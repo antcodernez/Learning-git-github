@@ -1,11 +1,30 @@
 body
     {
         text-align: center;
-        color: slateblue;
+        color: black;
         font-size: 24px;
         font-family: Arial, Helvetica, sans-serif;
     }
-p
+.container
     {
-        color: skyblue;
+        border: solid grey 1px;
+        border-radius: 8px;
+        height: 350px;
+        width: 78%;
+        margin: 0 auto;
+    }
+.container h1
+    {
+        font-size: 24px;
+    }
+.container p
+    {
+        color: aqua;
+    }
+.container form
+    {
+        width: 200px;
+        height: 200px;
+        border: solid gray 1px;
+        margin: 0 auto;
     }
