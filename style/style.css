@@ -9,9 +9,26 @@ body
     {
         border: solid grey 1px;
         border-radius: 8px;
-        height: 350px;
+        height: auto;
         width: 78%;
         margin: 0 auto;
+    }
+.container .cabecera
+    {
+        background-color: blueviolet;
+        padding: 5px;
+        display: flex;
+        justify-content: space-around;
+        flex-wrap: wrap;
+        box-shadow: 0px 2px 20px 10px #c6c6c6;
+    }
+.container .cabecera p:nth-child(1)
+    {
+        color:papayawhip;
+    }
+.container .cabecera p:nth-child(2)
+    {
+        color:violet;   
     }
 .container h1
     {
@@ -27,4 +44,5 @@ body
         height: 200px;
         border: solid gray 1px;
         margin: 0 auto;
+        margin-bottom: 30px;
     }
