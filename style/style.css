@@ -13,6 +13,23 @@ body
         width: 78%;
         margin: 0 auto;
     }
+.container .cabecera
+    {
+        background-color: slateblue;
+        padding: 2px;
+        display: flex;
+        justify-content: space-evenly;
+        border-radius: inherit;
+        border: none;
+    }
+.container .cabecera p:nth-child(1)
+    {
+        color: papayawhip;
+    }
+.container .cabecera p:nth-child(2)
+    {
+        color: darkblue;
+    }
 .container h1
     {
         font-size: 24px;
