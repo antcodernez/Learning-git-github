@@ -1,7 +1,6 @@
 body
     {
         text-align: center;
-        color: red;
         font-size: 24px;
         font-family: Arial, Helvetica, sans-serif;
     }
@@ -19,6 +18,7 @@ body
         padding: 2px;
         display: flex;
         justify-content: space-evenly;
+        flex-wrap: wrap;
         border-radius: inherit;
         border: none;
     }
@@ -28,15 +28,16 @@ body
     }
 .container .cabecera p:nth-child(2)
     {
-        color: darkblue;
+        color:tomato;
     }
 .container h1
     {
-        font-size: 24px;
+        font-size: 20px;
     }
 .container .sub-title
     {
         color:rebeccapurple;
+        font-size: 18px;
     }
 .container .blog-content
     {
