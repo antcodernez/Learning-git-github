@@ -58,7 +58,14 @@ body
         width: 40%;
         font-family: 'Courier New', Courier, monospace;
     }
+footer
+    {
+        background-color: springgreen;
+        height: auto;
+        width: 78%;
+        margin: 0 auto;
+    }
 .textito
     {
-        color: aqua;
+        color: red;
     }
