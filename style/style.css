@@ -68,6 +68,11 @@ body
         width: 40%;
         font-family: 'Courier New', Courier, monospace;
     }
+.container .blog-content .text p img 
+    {
+        width: 10rem;
+        height: 10rem;
+    }   
 footer
     {
         background-color: springgreen;
