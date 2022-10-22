@@ -5,4 +5,6 @@ Un blog bien fachero mientras aprendo git y github
 
 ## Cositas que escribi
 * Creado por el super programador el yisus
-* Trabajamos bien chido, ya es hora de jubilar este curso y seguir aprendiendo :D 
+* Trabajamos bien chido, ya es hora de jubilar este curso y seguir aprendiendo :D
+
+* En dos meses me quiero ver ya con trabajo :D
